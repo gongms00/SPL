@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.gradio/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+CLAUDE.md
+
+# Data & Results
+results/
+inter/
+vis/
+*.log
+
+# Models
+*.pth
+*.ckpt
+*.safetensors
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

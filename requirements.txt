@@ -1,0 +1,9 @@
+accelerate
+git+https://github.com/huggingface/diffusers.git
+gradio>=5.0,<6.0
+kornia
+opencv-python
+openai
+Pillow
+safetensors
+transformers
