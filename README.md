@@ -144,14 +144,11 @@ Our contribution is the Structure Preservation Loss (SPL) that adds pixel-level 
 ## Citation
 
 ```bibtex
-@misc{gong2026edgeawareimagemanipulationdiffusion,
-      title={Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss},
-      author={Minsu Gong and Nuri Ryu and Jungseul Ok and Sunghyun Cho},
-      year={2026},
-      eprint={2601.16645},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.16645},
+@inproceedings{gong2026spl,
+  title={Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss},
+  author={Gong, Minsu and Ryu, Nuri and Ok, Jungseul and Cho, Sunghyun},
+  booktitle={Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+  year={2026}
 }
 ```
 
